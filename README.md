@@ -18,7 +18,7 @@ Prepare a detailed approach for completing the analysis, including activities â€
 Please ensure your PowerPoint presentation includes a detailed approach for our strategy behind each of the 3 phases including activities involved in each - i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off.
 
 ### Solution
-This is the [presentation](https://github.com/igochesam/KPMG_data_analytics_virtual_internship/files/13260361/Module_2_Template_slide.pptx) containing the approach for completing the analysis.
+This is the [presentation](https://github.com/igochesam/KPMG_data_analytics_virtual_internship/files/13329196/Presentation1.Autosaved.pptx) containing the approach for completing the analysis.
 
 
 ## Task 3: Data Insights
@@ -27,4 +27,4 @@ The client is happy with the analysis plan and would like us to proceed.  After 
 Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. A list of customers or algorithm wonâ€™t cut it with the client, we need to support our results with the use of visualisations. 
 
 ### Solution
-This is the [presentation](https://github.com/igochesam/KPMG_data_analytics_virtual_internship/files/13260361/Module_2_Template_slide.pptx) containing the approach for completing the analysis.
+This is the [dashboard](https://github.com/igochesam/KPMG_data_analytics_virtual_internship/assets/109409835/2f76d86d-dcd3-418b-8db9-4246d0cbce67) containing the approach for completing the analysis, done using Tableau.
